@@ -13,5 +13,5 @@ This repository concentrates most documents related to the NSF FIU/ESnet Q-Facto
 Documents included in this repository:
 
 user-stories/  
-reports/
+reports/  
 data/
